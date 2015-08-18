@@ -1,0 +1,13 @@
+{
+  "name": "project-image-cleaner",
+  "version": "0.0.1",
+  "description": "Remove unused images referenced from your project. Initially made to clean iOS XCode project.",
+  "main": "lib/ProjectImageCleaner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manny Vergel",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
